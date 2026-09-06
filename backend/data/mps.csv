@@ -1,0 +1,61 @@
+mp_id,mp_name,state,constituency,mp_type,parliamentary_term,annual_entitlement_demo,data_type
+MP001,Amit Sharma,Maharashtra,Pune East,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP002,Rahul Singh,Karnataka,Mysuru,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP003,Priya Joshi,Rajasthan,Udaipur,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP004,Anita Mehta,West Bengal,Kolkata North,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP005,Ravi Nair,Gujarat,Surat Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP006,Neha Sharma,Uttar Pradesh,Prayagraj,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP007,Vikram Singh,Tamil Nadu,Coimbatore,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP008,Suresh Joshi,Odisha,Cuttack,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP009,Kavita Mehta,Bihar,Muzaffarpur,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP010,Arjun Nair,Telangana,Hyderabad Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP011,Meena Sharma,Maharashtra,Nagpur Rural,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP012,Nitin Singh,Karnataka,Hubballi,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP013,Pooja Joshi,Rajasthan,Jaipur Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP014,Manoj Mehta,West Bengal,Howrah,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP015,Deepak Nair,Gujarat,Vadodara,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP016,Amit Sharma,Uttar Pradesh,Lucknow East,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP017,Rahul Singh,Tamil Nadu,Madurai,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP018,Priya Joshi,Odisha,Sambalpur,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP019,Anita Mehta,Bihar,Patna Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP020,Ravi Nair,Telangana,Warangal,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP021,Neha Sharma,Maharashtra,Nashik Central,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP022,Vikram Singh,Karnataka,Bengaluru North,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP023,Suresh Joshi,Rajasthan,Kota,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP024,Kavita Mehta,West Bengal,Malda,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP025,Arjun Nair,Gujarat,Ahmedabad West,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP026,Meena Sharma,Uttar Pradesh,Varanasi Rural,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP027,Nitin Singh,Tamil Nadu,Salem,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP028,Pooja Joshi,Odisha,Bhubaneswar,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP029,Manoj Mehta,Bihar,Gaya,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP030,Deepak Nair,Telangana,Nizamabad,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP031,Amit Sharma,Maharashtra,Pune East,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP032,Rahul Singh,Karnataka,Mysuru,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP033,Priya Joshi,Rajasthan,Udaipur,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP034,Anita Mehta,West Bengal,Kolkata North,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP035,Ravi Nair,Gujarat,Surat Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP036,Neha Sharma,Uttar Pradesh,Prayagraj,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP037,Vikram Singh,Tamil Nadu,Coimbatore,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP038,Suresh Joshi,Odisha,Cuttack,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP039,Kavita Mehta,Bihar,Muzaffarpur,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP040,Arjun Nair,Telangana,Hyderabad Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP041,Meena Sharma,Maharashtra,Nagpur Rural,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP042,Nitin Singh,Karnataka,Hubballi,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP043,Pooja Joshi,Rajasthan,Jaipur Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP044,Manoj Mehta,West Bengal,Howrah,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP045,Deepak Nair,Gujarat,Vadodara,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP046,Amit Sharma,Uttar Pradesh,Lucknow East,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP047,Rahul Singh,Tamil Nadu,Madurai,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP048,Priya Joshi,Odisha,Sambalpur,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP049,Anita Mehta,Bihar,Patna Rural,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP050,Ravi Nair,Telangana,Warangal,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP051,Neha Sharma,Maharashtra,Nashik Central,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP052,Vikram Singh,Karnataka,Bengaluru North,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP053,Suresh Joshi,Rajasthan,Kota,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP054,Kavita Mehta,West Bengal,Malda,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP055,Arjun Nair,Gujarat,Ahmedabad West,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP056,Meena Sharma,Uttar Pradesh,Varanasi Rural,Rajya Sabha,18,50000000,SYNTHETIC_DEMO
+MP057,Nitin Singh,Tamil Nadu,Salem,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP058,Pooja Joshi,Odisha,Bhubaneswar,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP059,Manoj Mehta,Bihar,Gaya,Lok Sabha,18,50000000,SYNTHETIC_DEMO
+MP060,Deepak Nair,Telangana,Nizamabad,Lok Sabha,18,50000000,SYNTHETIC_DEMO

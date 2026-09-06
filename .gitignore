@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+
+# Large/generated datasets
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/result/*
+!data/result/.gitkeep
+
+# Databases
+database/*.db
+
+# ML model artifacts
+*.pkl
+*.joblibvenv/
+__pycache__/
+*.pyc
+.env
+*.db
+.streamlit/secrets.toml
+
+*.db-shm
+*.db-wal
+venv/
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.env
+.pytest_cache/
+.DS_Store
+.streamlit/secrets.toml

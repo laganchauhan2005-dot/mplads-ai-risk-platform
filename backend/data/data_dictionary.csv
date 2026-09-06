@@ -1,0 +1,10 @@
+file,field,meaning,type
+mps.csv,mp_id,Unique synthetic MP identifier,string
+projects.csv,project_id,Unique synthetic project identifier,string
+projects.csv,risk_score,Synthetic development risk score; not fraud probability,float
+projects.csv,risk_reasons,Human-readable explanation of risk signals,string
+risk_history.csv,risk_score,Historical synthetic risk score,float
+progress_snapshots.csv,reported_progress_pct,Historical synthetic progress snapshot,float
+duplicate_matches.csv,text_similarity,Synthetic similarity between candidate duplicates,float
+budget_records.csv,annual_allocation_demo,Synthetic annual allocation; not official accounting,integer
+anomaly_cases.csv,anomaly_case_type,Ground-truth label for planted synthetic anomaly,categorical

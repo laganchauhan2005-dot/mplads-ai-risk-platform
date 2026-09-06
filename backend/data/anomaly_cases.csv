@@ -1,0 +1,468 @@
+project_id,anomaly_case_type,planted,description
+P01455,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00727,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02897,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01763,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01033,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02047,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00372,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00756,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01068,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01645,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00822,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00929,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01439,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02652,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02593,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00335,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01392,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01851,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00386,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02146,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01056,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00084,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02483,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00250,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02282,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00243,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02797,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01529,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00392,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00691,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00008,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02168,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00052,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00020,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01339,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01576,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01255,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00114,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02327,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02308,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01536,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00285,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00707,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00773,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02608,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02544,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02041,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00745,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02193,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00895,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01415,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00398,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02799,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00634,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02457,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01533,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02352,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00725,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01806,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02894,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00728,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02079,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00610,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01824,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00125,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02549,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00159,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P02202,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P00493,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01277,COST_SPIKE,1,Sanctioned/released cost deliberately inflated relative to peers.
+P01226,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00457,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01469,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02866,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00764,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02478,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02177,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00705,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00424,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02090,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00818,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02533,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00654,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02575,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01419,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01911,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02764,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02301,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01636,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01883,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00492,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02808,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02330,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00278,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01423,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01039,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01540,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00596,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01010,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02061,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00798,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01700,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00178,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01507,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00249,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02016,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02768,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02969,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02482,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00420,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02183,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00385,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02784,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02749,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01348,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02215,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02366,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02415,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02947,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02234,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02190,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01659,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02294,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02701,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00851,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01190,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00571,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00839,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01232,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02631,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01792,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01830,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01588,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00349,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02059,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00102,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02063,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00443,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01352,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02358,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02031,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02561,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01287,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01209,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02870,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02933,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00233,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02216,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00797,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00378,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01292,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02467,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02399,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02279,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00734,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02692,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P01319,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00204,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P02244,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00120,PROGRESS_EXPENDITURE_GAP,1,High expenditure deliberately paired with low reported progress.
+P00205,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01309,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01666,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00823,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01521,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02326,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00226,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02962,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01873,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02196,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02265,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00778,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02197,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01605,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02949,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00194,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00934,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00432,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01971,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00810,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00963,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01384,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00316,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00887,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02136,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00901,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02472,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02773,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02655,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00067,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00196,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01651,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00898,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02984,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00508,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01254,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00022,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01043,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02855,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01431,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00772,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01687,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00991,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01609,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01737,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00675,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00615,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02594,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01069,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02691,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02895,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01118,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01826,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02945,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02469,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02711,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01338,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00893,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02830,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01177,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01768,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02988,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00044,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01796,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01786,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01631,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01201,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00828,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02107,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01099,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02600,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00045,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02713,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02997,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01710,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00182,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P01938,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00559,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02871,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P02985,DELAYED_PROJECT,1,Project deliberately given an unusually long elapsed duration/status.
+P00996,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00315,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02835,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00512,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00516,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00703,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02166,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00299,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00820,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02388,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01457,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00744,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01142,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01771,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01266,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02385,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01273,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02534,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01163,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00485,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00533,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P01755,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00906,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00388,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02464,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02212,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00900,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00565,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02304,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P00160,DATE_INCONSISTENCY,1,Expected completion date deliberately placed before start date.
+P02104,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02148,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00495,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00504,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01036,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00170,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01747,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00840,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00376,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00305,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01095,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01959,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02766,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01673,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01968,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00643,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01985,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02684,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00185,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02982,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02263,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00860,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00956,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01436,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00198,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02559,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00065,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00686,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01542,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01134,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00794,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01579,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02074,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00914,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02899,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00257,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01761,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01713,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00688,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01318,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02272,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00288,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01021,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00837,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02821,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00882,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01514,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P02960,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01972,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P00113,HIGH_UTILIZATION_LOW_PROGRESS,1,Near-full financial utilization deliberately paired with low physical progress.
+P01534,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00196,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02093,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01104,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01591,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01375,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00655,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02409,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00826,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02137,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02489,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01101,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01050,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02989,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01371,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02793,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00802,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02900,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01340,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02708,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01067,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02488,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01609,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00643,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00489,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00138,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02665,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01506,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01169,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00178,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01850,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02699,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00119,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00979,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01825,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01672,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02472,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01566,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02669,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02767,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02752,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00280,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02097,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01903,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01662,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02074,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00839,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01927,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00758,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02763,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00462,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01554,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00171,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00727,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01588,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02259,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00438,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01221,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00843,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01977,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00820,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02061,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02336,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01485,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01224,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01898,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02826,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00929,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02762,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02420,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00878,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01282,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02430,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01464,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01243,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01270,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01479,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02113,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01900,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02934,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00223,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00314,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02654,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01258,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02565,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00330,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00942,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00143,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02322,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02544,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01034,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00456,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00889,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00030,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02094,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01397,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00098,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01805,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00150,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00051,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02498,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00887,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02777,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00742,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02466,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01368,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01744,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00846,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01910,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02047,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02628,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02949,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02750,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01592,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01141,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01341,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01271,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01876,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02432,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01601,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00633,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01885,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00677,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00402,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02014,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01586,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01967,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02115,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02298,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00343,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02445,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01402,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02733,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00145,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01018,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00319,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01631,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02525,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00422,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00440,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01348,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00002,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P01965,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00128,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P00356,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02537,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
+P02044,DUPLICATE_CANDIDATE,1,Near-duplicate project pair deliberately created for similarity detection.
